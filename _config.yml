@@ -5,7 +5,7 @@ server_port: 4000
 baseurl:    /NongFang
 url: http://localhost:4000
 
-source:      .
+#source:      .
 destination: ./_site
 plugins:     ./_plugins
 
